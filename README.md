@@ -1,1 +1,1 @@
-# band_nrf52832
+这是一个基于nrf52832的智能手环xiang# band_nrf52832
